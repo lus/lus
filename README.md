@@ -11,10 +11,10 @@ I got into programming back in 2016/2017 and started with some C# on my fathers 
 
 ### Programming languages I (kind of) mastered or at least plan to:
 
-* Java
-* Golang
-* Rust (currently learning)
-* Elixir (planning)
+* [Java](https://www.oracle.com/java/)
+* [Go](https://go.dev)
+* [Rust](https://www.rust-lang.org/) (currently learning)
+* [Elixir](https://elixir-lang.org/) (planning)
 
 ### General topics I am interested and experienced in:
 
