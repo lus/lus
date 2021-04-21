@@ -19,6 +19,7 @@ I got into programming back in 2016/2017 and started with some C# on my fathers 
 ### Other technologies I like to use:
 
 * [PostgreSQL](https://www.postgresql.org/)
+* [MongoDB](https://www.mongodb.com/)
 * [Redis](https://redis.io/)
 * [Docker](https://www.docker.com/)
 
