@@ -16,6 +16,12 @@ I got into programming back in 2016/2017 and started with some C# on my fathers 
 * [Rust](https://www.rust-lang.org/) (currently learning)
 * [Elixir](https://elixir-lang.org/) (planning)
 
+### Other technologies I like to use:
+
+* [PostgreSQL](https://www.postgresql.org/)
+* [Redis](https://redis.io/)
+* [Docker](https://www.docker.com/)
+
 ### General topics I am interested and experienced in:
 
 * DevOps
@@ -24,6 +30,12 @@ I got into programming back in 2016/2017 and started with some C# on my fathers 
 * Data structures
 * Backends
 * Infrastructure planning
+
+### Projects I am mainly working at and/or contributing to:
+
+* [pasty](https://github.com/lus/pasty): A simple yet beautiful code pasting server
+* [x0](https://github.com/x0tf): A modern and privacy-focused stuff sharing service
+* [poopmail](https://github.com/poopmail): An over-engineered temp-mail service
 
 ### Contact me
 
