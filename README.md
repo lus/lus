@@ -42,5 +42,5 @@ I got into programming back in 2016/2017 and started with some C# on my fathers 
 
 If you want to contact me for any reason, feel free to do so using one of the following ways:
 
-* Discord: `Lukaesebrot#8001`
+* Discord: `lus#8001`
 * E-Mail: `hi@lus.pm`
