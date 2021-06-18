@@ -44,3 +44,5 @@ If you want to contact me for any reason, feel free to do so using one of the fo
 
 * Discord: `lus#8001`
 * E-Mail: `kbrt@protonmail.com`
+
+If you have any quick questions or reports about one of my projects, you may also want to join my [Discord server](https://go.lus.pm/discord).
