@@ -46,3 +46,7 @@ If you want to contact me for any reason, feel free to do so using one of the fo
 * E-Mail: `kbrt@protonmail.com`
 
 If you have any quick questions or reports about one of my projects, you may also want to join my [Discord server](https://go.lus.pm/discord).
+
+### Profile visitors (since 07/02/2021)
+
+<img src="https://ghvisitorcount.zekro.de/lus.svg">
