@@ -5,7 +5,7 @@
 ## Hello, my friend!
 
 My name is Lukas but most of my friends call me Lukas. If you want you can also call me Lukas instead.
-I am a 16 year old student from Germany who does some programming in his free time to gain some knowledge for his future life and working career.
+I am a 17 year old student from Germany who does some programming in his free time to gain some knowledge for his future life and working career.
 
 I got into programming back in 2016/2017 and started with some C# on my fathers laptop (it wasn't really programming though as I needed to ask him stuff like 'how to open this window?' or 'what is an integer?', but you get the point. I started gaining interest back then).
 
