@@ -1,13 +1,10 @@
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lus&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ## Hello, my friend!
 
 My name is Lukas but most of my friends call me Lukas. If you want you can also call me Lukas instead.
 I am a 17 year old student from Germany who does some programming in his free time to gain some knowledge for his future life and working career.
 
-I got into programming back in 2016/2017 and started with some C# on my fathers laptop (it wasn't really programming though as I needed to ask him stuff like 'how to open this window?' or 'what is an integer?', but you get the point. I started gaining interest back then).
+Even though my interest into programming arised already in 2015/2016, I started my first projects in 2017 when I played the game Minecraft and discovered I could develop plugins for a server implementation of it.
+I have moved forward since then and I try to keep learning new stuff :D
 
 ### Programming languages I (kind of) mastered or at least plan to:
 
@@ -21,22 +18,23 @@ I got into programming back in 2016/2017 and started with some C# on my fathers 
 * [PostgreSQL](https://www.postgresql.org/)
 * [MongoDB](https://www.mongodb.com/)
 * [Redis](https://redis.io/)
+* [NATS](https://nats.io/)
 * [Docker](https://www.docker.com/)
 
-### General topics I am interested and experienced in:
+### General topics I am interested and/or (kind of) experienced in:
 
 * DevOps
 * CI/CD
-* Systems administration in general
+* Systems administration
 * Data structures
 * Backends
 * Infrastructure planning
 
-### Projects I am mainly working at and/or contributing to:
+### Projects I am mainly working on and/or contributing to:
 
 * [pasty](https://github.com/lus/pasty): A simple yet beautiful code pasting server
-* [x0](https://github.com/x0tf): A modern and privacy-focused stuff sharing service
-* [poopmail](https://github.com/poopmail): An over-engineered temp-mail service
+* [eve](https://github.com/lus/eve): An annotation-based Java event bus framework
+* [gittp](https://github.com/lus/gittp): A service which automatically re-clones and exposes a Git repository to the web
 
 ### Contact me
 
@@ -46,7 +44,3 @@ If you want to contact me for any reason, feel free to do so using one of the fo
 * E-Mail: `kbrt@protonmail.com`
 
 If you have any quick questions or reports about one of my projects, you may also want to join my [Discord server](https://go.lus.pm/discord).
-
-### Profile visitors (since 07/02/2021)
-
-<img src="https://ghvisitorcount.zekro.de/lus.svg">
