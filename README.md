@@ -1,7 +1,7 @@
 ## Hello, my friend!
 
-My name is Lukas, I am 17 years old and I do some programming in my spare time.
-I'm into computer science since ~2017 now and I love keeping learning new stuff.
+My name is Lukas, I am 17 years old, and I do some programming in my spare time.
+I've been into computer science since ~2017 now, and I love learning new stuff.
 
 ### Programming languages I (kind of) mastered or at least plan to:
 
@@ -17,7 +17,7 @@ I'm into computer science since ~2017 now and I love keeping learning new stuff.
 * [NATS](https://nats.io/)
 * [Docker](https://www.docker.com/)
 
-### General topics I am interested and/or (kind of) experienced in:
+### General topics I am interested and (kind of) experienced in:
 
 * DevOps
 * CI/CD
