@@ -1,6 +1,6 @@
 ## Hello, my friend!
 
-My name is Lukas, I am 17 years old, and I do some programming in my spare time.
+My name is Lukas, I am 18 years old, and I do some programming in my spare time.
 I've been into computer science since ~2017 now, and I love learning new stuff.
 
 ### Programming languages I (kind of) mastered or at least plan to:
